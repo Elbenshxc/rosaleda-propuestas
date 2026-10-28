@@ -8,3 +8,5 @@ Dos propuestas con enlaces públicos independientes en GitHub Pages:
 Cada propuesta conserva su propio menú, subpáginas, imágenes originales, tipografía y animaciones completas, sin SALTAR. Los enlaces anteriores redirigen a los nuevos nombres.
 
 `site.zip` contiene los archivos estáticos. GitHub Actions publica su contenido en cada actualización de main. La tipografía incluida es de evaluación; revisar su aviso para el uso comercial definitivo.
+
+El botón «Repetir entrada» se muestra solo en la portada de cada propuesta; no aparece en Equipo, Portafolio, Contacto ni las demás subpáginas.
