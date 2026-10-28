@@ -1,7 +1,10 @@
 # ROSALEDA — propuestas
 
-Publicación en GitHub Pages de las propuestas blanca y rosa aprobadas.
+Dos propuestas con enlaces públicos independientes en GitHub Pages:
 
-La blanca está en la raíz y la rosa en `rosa/`. Se conservan las imágenes originales, la tipografía uniforme y las animaciones completas, sin SALTAR.
+- [Propuesta uno](https://elbenshxc.github.io/rosaleda-propuestas/propuesta-uno/)
+- [Propuesta dos](https://elbenshxc.github.io/rosaleda-propuestas/propuesta-dos/)
+
+Cada propuesta conserva su propio menú, subpáginas, imágenes originales, tipografía y animaciones completas, sin SALTAR. Los enlaces anteriores redirigen a los nuevos nombres.
 
 `site.zip` contiene los archivos estáticos. GitHub Actions publica su contenido en cada actualización de main. La tipografía incluida es de evaluación; revisar su aviso para el uso comercial definitivo.
